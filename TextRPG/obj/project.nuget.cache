@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RaU7OfTtZdE=",
+  "dgSpecHash": "qLW09Facf1M=",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\VisualStudio\\TextRPG\\TextRPG\\TextRPG.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\TextRPG\\TextRPG\\TextRPG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

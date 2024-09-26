@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\VisualStudio\\TextRPG\\TextRPG\\TextRPG.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\TextRPG\\TextRPG\\TextRPG.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\VisualStudio\\TextRPG\\TextRPG\\TextRPG.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\TextRPG\\TextRPG\\TextRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\VisualStudio\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\TextRPG\\TextRPG\\TextRPG.csproj",
         "projectName": "TextRPG",
-        "projectPath": "C:\\Workspace\\VisualStudio\\TextRPG\\TextRPG\\TextRPG.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\TextRPG\\TextRPG\\TextRPG.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\VisualStudio\\TextRPG\\TextRPG\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\TextRPG\\TextRPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
